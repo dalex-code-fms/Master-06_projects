@@ -1,0 +1,15 @@
+
+*************************** Résumé de la commande 1 ***************************
+vegetarien
+tiramisu
+*************************** Résumé de la commande 2 ***************************
+soupe
+boeuf
+pates
+eau gazeuze
+
+*************************** Résumé de la commande 3 ***************************
+salade
+poulet
+riz
+eau plate
